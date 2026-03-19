@@ -7,7 +7,7 @@
   - [levels.fyi](https://www.levels.fyi/): 3M+ MAU. 4.8 ⭐ on App Store and Google Play
   - [menu](https://app.menu.jp/): 1M+ MAU
   - and more...
-- 💬 `ping` me about **react-native**, **founding engineer**. Open to collaborations.
+- 💬 `ping` me about **react-native**, **founding engineering**. Open to collaborations.
 
 
 
